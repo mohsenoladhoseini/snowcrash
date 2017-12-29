@@ -1,8 +1,8 @@
-/*@import url(//fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
-*/
+/*@import url(//cdn.rawgit.com/rastikerdar/vazir-font/v16.1.0/dist/font-face.css);
+*/ 
 ul {
 	margin-right: 28pt;
-	font-family: "Droid Arabic Naskh";
+	font-family: Vazir;
 	font-size: 1.1em;
 	line-height: normal;
 }
@@ -14,7 +14,7 @@ h1 {
 body {
 	padding-top: 60px;
 	padding-bottom: 40px;
-	font-family: 'Droid Arabic Naskh', sans-serif !important;
+	font-family: Vazir , sans-serif !important;
 	
 }
 .sidebar-nav {
@@ -34,7 +34,7 @@ body {
 }
 
 p {
-	font-family: "Droid Arabic Naskh";
+	font-family: Vazir;
 	font-size: 1.2em;
 	line-height: normal;
 }
